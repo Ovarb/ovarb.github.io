@@ -10,14 +10,16 @@ Colleague repos:
 	<li><b><a href = 'https://github.com/MrClaus/TestApplication'>Мартин Гифо</a></b></li>
 	<li><a href = 'https://github.com/pashapaaha/WeatherWatcher'>Паша Андреев</a></li>
 	<li><a href = 'https://github.com/asaks/NewWeather'>Chekist</a></li>
-
+	<li><b><a href = 'https://github.com/AlexanderRyabchikov/WeatherApp/tree/homeWork'>Александр Рябчиков</a></b></li>
+	<li><b><a href = 'https://github.com/AlexanderKosarev/AndroidCourse'>Alexander Kosarev</a></b></li>
+	<li><b><a href = 'https://github.com/IgorP86/WeatherOutlook'>Игорь Портнов</a></b></li>
 </ul>
 
 
 
-<a href = 'https://github.com/AlexanderRyabchikov/WeatherApp/tree/homeWork'>Александр Рябчиков</a>
-<a href = 'https://github.com/AlexanderKosarev/AndroidCourse'>Alexander Kosarev</a>
-<a href = 'https://github.com/IgorP86/WeatherOutlook'>Игорь Портнов</a>
+
+
+
 
 {% highlight ruby %}
 highlighted paragraph

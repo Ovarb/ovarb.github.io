@@ -5,9 +5,16 @@ date:   2018-04-24 12:30:28 +0000
 categories: jekyll update
 ---
 Colleague repos:
-<a href = 'https://github.com/MrClaus/TestApplication'>Мартин Гифо</a>
-<a href = 'https://github.com/pashapaaha/WeatherWatcher'>Паша Андреев</a>
-<a href = 'https://github.com/asaks/NewWeather'>Chekist</a>
+
+<ul>
+	<li><b><a href = 'https://github.com/MrClaus/TestApplication'>Мартин Гифо</a></b></li>
+	<li><a href = 'https://github.com/pashapaaha/WeatherWatcher'>Паша Андреев</a></li>
+	<li><a href = 'https://github.com/asaks/NewWeather'>Chekist</a></li>
+
+</ul>
+
+
+
 <a href = 'https://github.com/AlexanderRyabchikov/WeatherApp/tree/homeWork'>Александр Рябчиков</a>
 <a href = 'https://github.com/AlexanderKosarev/AndroidCourse'>Alexander Kosarev</a>
 <a href = 'https://github.com/IgorP86/WeatherOutlook'>Игорь Портнов</a>

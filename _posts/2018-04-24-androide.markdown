@@ -5,6 +5,12 @@ date:   2018-04-24 12:30:28 +0000
 categories: jekyll update
 ---
 Colleague repos:
+Мартин Гифо: https://github.com/MrClaus/TestApplication
+Паша Андреев: https://github.com/pashapaaha/WeatherWatcher
+Chekist: https://github.com/asaks/NewWeather
+Александр Рябчиков: https://github.com/AlexanderRyabchikov/WeatherApp/tree/homeWork
+Alexander Kosarev: https://github.com/AlexanderKosarev/AndroidCourse
+Игорь Портнов: https://github.com/IgorP86/WeatherOutlook
 
 {% highlight ruby %}
 Мартин Гифо: https://github.com/MrClaus/TestApplication

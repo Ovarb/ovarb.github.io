@@ -5,21 +5,14 @@ date:   2018-04-24 12:30:28 +0000
 categories: jekyll update
 ---
 Colleague repos:
-<a href = 'https://github.com/MrClaus/TestApplication'>Мартин Гифо</a>
-
-Паша Андреев: https://github.com/pashapaaha/WeatherWatcher
-Chekist: https://github.com/asaks/NewWeather
-Александр Рябчиков: https://github.com/AlexanderRyabchikov/WeatherApp/tree/homeWork
-Alexander Kosarev: https://github.com/AlexanderKosarev/AndroidCourse
-Игорь Портнов: https://github.com/IgorP86/WeatherOutlook
 
 {% highlight ruby %}
-Мартин Гифо: https://github.com/MrClaus/TestApplication
-Паша Андреев: https://github.com/pashapaaha/WeatherWatcher
-Chekist: https://github.com/asaks/NewWeather
-Александр Рябчиков: https://github.com/AlexanderRyabchikov/WeatherApp/tree/homeWork
-Alexander Kosarev: https://github.com/AlexanderKosarev/AndroidCourse
-Игорь Портнов: https://github.com/IgorP86/WeatherOutlook
+<a href = 'https://github.com/MrClaus/TestApplication'>Мартин Гифо</a>
+<a href = 'https://github.com/pashapaaha/WeatherWatcher'>Паша Андреев</a>
+<a href = 'https://github.com/asaks/NewWeather'>Chekist</a>
+<a href = 'https://github.com/AlexanderRyabchikov/WeatherApp/tree/homeWork'>Александр Рябчиков</a>
+<a href = 'https://github.com/AlexanderKosarev/AndroidCourse'>Alexander Kosarev</a>
+<a href = 'https://github.com/IgorP86/WeatherOutlook'>Игорь Портнов</a>
 {% endhighlight %}
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekylls GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].

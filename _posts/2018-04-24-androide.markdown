@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Android"
+date:   2018-04-24 12:30:28 +0000
+categories: jekyll update
+---
+Colleague repos:
+
+{% highlight ruby %}
+Мартин Гифо: https://github.com/MrClaus/TestApplication
+Паша Андреев: https://github.com/pashapaaha/WeatherWatcher
+Chekist: https://github.com/asaks/NewWeather
+Александр Рябчиков: https://github.com/AlexanderRyabchikov/WeatherApp/tree/homeWork
+Alexander Kosarev: https://github.com/AlexanderKosarev/AndroidCourse
+Игорь Портнов: https://github.com/IgorP86/WeatherOutlook
+{% endhighlight %}
+
+Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekylls GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+
+[jekyll-docs]: http://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
